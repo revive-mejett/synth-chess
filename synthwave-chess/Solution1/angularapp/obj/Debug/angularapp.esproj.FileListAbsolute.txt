@@ -1,0 +1,2 @@
+C:\Users\1635447\source\repos\synth-chess\synthwave-chess\Solution1\angularapp\obj\Debug\angularapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\1635447\source\repos\synth-chess\synthwave-chess\Solution1\angularapp\obj\Debug\angularapp.esproj.CoreCompileInputs.cache

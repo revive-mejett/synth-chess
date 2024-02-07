@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wD3qf+cerELf2KNU4blV+0Uj4f5p22C8y4MMF4gVmuFR9iyc0qaWkYN9aj3IC/DkJmhsfgHpdxnCh9hv9RxXmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1635447\\source\\repos\\synth-chess\\synthwave-chess\\Solution1\\webapi\\webapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Dev\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Dev\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Dev\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Dev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
